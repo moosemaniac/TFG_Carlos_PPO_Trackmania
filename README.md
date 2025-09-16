@@ -54,7 +54,7 @@ This project implements a **Proximal Policy Optimization (PPO) agent** trained f
 - **Convergence**: Stable performance in final 200 episodes
 
 ### Academic Validation
-**Master's Thesis**: "Entrenamiento de un agente de aprendizaje por refuerzo en Trackmania"
+**Bachelor's Thesis**: "Entrenamiento de un agente de aprendizaje por refuerzo en Trackmania"
 - **Institution**: Universitat Oberta de Catalunya (UOC)
 - **Year**: 2025
 - **Program**: Computer Science Engineering - Artificial Intelligence Specialization
